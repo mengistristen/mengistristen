@@ -6,8 +6,13 @@ My interests lie in:
 
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Typescript](https://img.shields.io/badge/-typescript-yellow?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![MongoDB](https://img.shields.io/badge/-mongodb-green?style=for-the-badge&logo=mongodb)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) 
+![Web Development](https://img.shields.io/badge/-Web%20development-blue?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/-Cloud%20computing-orange?style=for-the-badge)
+
+I want to learn: 
+
+![NestJS](https://img.shields.io/badge/-nestjs-red?style=for-the-badge&logo=nestjs)
 
 I'm currently working on Ficture, a simple web application for creating terrain maps.
 
