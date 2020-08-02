@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a software engineering student at Oregon Institute of Technology. I'm interested in web development using JavaScript and other web technologies.
+I'm a software engineering student at Oregon Institute of Technology. Currently Tech Director at [KTEC 89.5FM][ktec]. I'm interested in web development using JavaScript and other web technologies. I've experimented with React, Angular, and other popular JavaScript frameworks. I would like to dive more into working on the cloud and have dabbled in AWS and other cloud computing platforms.
 
 #### ⚡ Interests...
 
@@ -18,6 +18,10 @@ I'm a software engineering student at Oregon Institute of Technology. I'm intere
 
 Ficture, a simple web application for creating terrain maps.
 
-📪 Contact me...
+#### 📪 Contact me...
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/thetmeng?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
+![Email](https://img.shields.io/badge/-tristen.mengis@gmail.com-lightgrey?style=for-the-badge&logo=gmail)
 
+[twitter]: https://twitter.com/thetmeng
+[ktec]: https://ktec895.com
