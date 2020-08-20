@@ -22,6 +22,7 @@ I'm a software engineering student at Oregon Institute of Technology. Currently 
 #### ⌨ Working on...
 
 Ficture, a simple web application for creating terrain maps.
+openchess, an API for playing and generating svgs for 8x8 board games
 
 [twitter]: https://twitter.com/thetmeng
 [ktec]: https://ktec895.com
