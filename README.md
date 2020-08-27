@@ -25,6 +25,10 @@ Ficture, a simple web application for creating terrain maps.
 
 openchess, an API for playing and generating svgs for 8x8 board games
 
+![Stats](https://github-readme-stats.vercel.app/api/?username=mengistristen&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mengistristen&layout=compact)
+
 [twitter]: https://twitter.com/thetmeng
 [ktec]: https://ktec895.com
 [website]: https://mengistristen.github.io
