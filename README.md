@@ -11,6 +11,7 @@ I'm a software engineering student at Oregon Institute of Technology. Currently 
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Typescript](https://img.shields.io/badge/-typescript-yellow?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) 
+![Svelte](https://img.shields.io/badge/-Svelte-white?style=for-the-badge&logo=svelte)
 ![Web Development](https://img.shields.io/badge/-Web%20development-blue?style=for-the-badge)
 ![Cloud Computing](https://img.shields.io/badge/-Cloud%20computing-orange?style=for-the-badge)
 
