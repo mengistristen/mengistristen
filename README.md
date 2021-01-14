@@ -22,9 +22,9 @@ I'm a software engineering student at Oregon Institute of Technology. Currently 
 
 #### ⌨ Working on...
 
-- [Ficture](github.com/mengistristen/ficture), a simple web application for creating terrain maps.
-- [openchess](github.com/mengistristen/openchess), an API for playing and generating svgs for 8x8 board games
-- [ethtcg](github.com/mengistristen/ethtcg), an unnamed ethereum trading card game
+- [Ficture](https://github.com/mengistristen/ficture), a simple web application for creating terrain maps.
+- [openchess](https://github.com/mengistristen/openchess), an API for playing and generating svgs for 8x8 board games
+- [ethtcg](https://github.com/mengistristen/ethtcg), an unnamed ethereum trading card game
 
 ![Stats](https://github-readme-stats.vercel.app/api/?username=mengistristen&show_icons=true)
 
