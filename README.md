@@ -9,11 +9,11 @@ I'm a software engineering student at Oregon Institute of Technology. Currently 
 #### ⚡ Interests...
 
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![Typescript](https://img.shields.io/badge/-typescript-yellow?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) 
 ![Svelte](https://img.shields.io/badge/-Svelte-white?style=for-the-badge&logo=svelte)
+![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=for-the-badge&logo=ethereum)
 ![Web Development](https://img.shields.io/badge/-Web%20development-blue?style=for-the-badge)
 ![Cloud Computing](https://img.shields.io/badge/-Cloud%20computing-orange?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/-Blockchain-green?style=for-the-badge)
 
 #### 📖 Want to learn...
 
@@ -22,9 +22,9 @@ I'm a software engineering student at Oregon Institute of Technology. Currently 
 
 #### ⌨ Working on...
 
-Ficture, a simple web application for creating terrain maps.
-
-openchess, an API for playing and generating svgs for 8x8 board games
+- [Ficture](github.com/mengistristen/ficture), a simple web application for creating terrain maps.
+- [openchess](github.com/mengistristen/openchess), an API for playing and generating svgs for 8x8 board games
+- [ethtcg](github.com/mengistristen/ethtcg), an unnamed ethereum trading card game
 
 ![Stats](https://github-readme-stats.vercel.app/api/?username=mengistristen&show_icons=true)
 
