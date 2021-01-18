@@ -21,9 +21,13 @@ I'm a software engineering student at Oregon Institute of Technology. Currently 
 - [openchess](https://github.com/mengistristen/openchess), an API for playing and generating svgs for 8x8 board games
 - [ethtcg](https://github.com/mengistristen/ethtcg), an unnamed ethereum trading card game
 
+<details>
+  <summary>Github Stats</summary>
+  
 ![Stats](https://github-readme-stats.vercel.app/api/?username=mengistristen&show_icons=true)
-
+  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mengistristen&layout=compact)
+</details>
 
 [twitter]: https://twitter.com/thetmeng
 [ktec]: https://ktec895.com
