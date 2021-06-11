@@ -1,4 +1,4 @@
-# Hi, I'm [Tristen][website]
+# I'm [Tristen][website], and I develop web apps
 
 ### About Me
 
