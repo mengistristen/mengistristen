@@ -9,10 +9,6 @@ I am a recent graduate from Oregon Tech with my B.S. in Software Engineering Tec
 - [Ficture] - a web app for generating fantasy maps using machine learning
 - [openchess] - an API for generating SVGs of 8x8 board games
 
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mengistristen&layout=compact' />
-</p>
-
 [website]: https://mengistristen.github.io
 [Ficture]: https://github.com/mengistristen/ficture
 [openchess]: https://github.com/mengistristen/openchess
