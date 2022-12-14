@@ -1,14 +1,14 @@
-# I'm [Tristen][website], and I develop web apps
+## Current Learning
+### Rust :crab:
+Useful Resources:
+- [The Rust Book]
+- [Crust of Rust] by Jon Gjengset
+- [Rust for Rustaceans] by Jon Gjengset
 
-### About Me
+## Other Content I Enjoy
+- [Tsoding Daily] for live-coding random stuff
 
-I am a recent graduate from Oregon Tech with my B.S. in Software Engineering Technology. I enjoy full stack development in JavaScript, but I particularly enjoy writing backend APIs in NodeJS. I am familiar with OOP and development in languages like C, C++, and C#. I am also familiar with ASP.NET and have begun looking into Solidity for blockchain development.
-
-### Recent Projects
-
-- [Ficture] - a web app for generating fantasy maps using machine learning
-- [openchess] - an API for generating SVGs of 8x8 board games
-
-[website]: https://mengistristen.github.io
-[Ficture]: https://github.com/mengistristen/ficture
-[openchess]: https://github.com/mengistristen/openchess
+[Crust of Rust]: https://youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
+[Rust for Rustaceans]: https://nostarch.com/rust-rustaceans
+[The Rust Book]: https://doc.rust-lang.org/book
+[Tsoding Daily]: https://www.youtube.com/tsoding
