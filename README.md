@@ -6,7 +6,7 @@ Useful Resources:
 - [Rust for Rustaceans] by Jon Gjengset
 
 ## Other Content I Enjoy
-- [Tsoding Daily] for live-coding random stuff
+- [Tsoding Daily] for live-coding streams
 
 [Crust of Rust]: https://youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
 [Rust for Rustaceans]: https://nostarch.com/rust-rustaceans
