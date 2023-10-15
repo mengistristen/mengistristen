@@ -6,12 +6,13 @@ Useful Resources:
 - [Rust for Rustaceans] by Jon Gjengset
 
 Projects:
-- [ficture-rs]
-- [nexus]
+- [ficture-rs] - procedural world map generation in rust
+- [nexus] - a hierarchical note taking app
+- [skribe] - a showcase of command line authentication via SSH keys
 
 ### Go :hamster:
 Projects:
-- [cmd-notes]
+- [cmd-notes] -  a simple note-taking command-line tool
 
 ## Other Content I Enjoy
 - [Tsoding Daily] for live-coding streams
@@ -21,5 +22,6 @@ Projects:
 [The Rust Book]: https://doc.rust-lang.org/book
 [ficture-rs]: https://github.com/mengistristen/ficture-rs
 [nexus]: https://github.com/mengistristen/nexus
+[skribe]: https://github.com/mengistristen/skribe
 [cmd-notes]: https://github.com/mengistristen/cmd-notes
 [Tsoding Daily]: https://www.youtube.com/tsoding
