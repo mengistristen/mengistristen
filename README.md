@@ -7,7 +7,7 @@ Useful Resources:
 
 Projects:
 - [ficture-rs] - procedural world map generation in rust
-- [nexus] - a hierarchical note taking app
+- [remark] - a command-line task tracking tool
 - [skribe] - a showcase of command line authentication via SSH keys
 
 ### Go :hamster:
@@ -21,7 +21,7 @@ Projects:
 [Rust for Rustaceans]: https://nostarch.com/rust-rustaceans
 [The Rust Book]: https://doc.rust-lang.org/book
 [ficture-rs]: https://github.com/mengistristen/ficture-rs
-[nexus]: https://github.com/mengistristen/nexus
+[remark]: https://github.com/mengistristen/remark
 [skribe]: https://github.com/mengistristen/skribe
 [cmd-notes]: https://github.com/mengistristen/cmd-notes
 [Tsoding Daily]: https://www.youtube.com/tsoding
