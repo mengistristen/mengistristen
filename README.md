@@ -15,7 +15,7 @@ Projects:
 - [cmd-notes] -  a simple note-taking command-line tool
 
 ## Other Content I Enjoy
-- [Tsoding Daily] for live-coding streams
+- [Tsoding] for live-coding streams
 
 [Crust of Rust]: https://youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
 [Rust for Rustaceans]: https://nostarch.com/rust-rustaceans
@@ -24,4 +24,4 @@ Projects:
 [remark]: https://github.com/mengistristen/remark
 [skribe]: https://github.com/mengistristen/skribe
 [cmd-notes]: https://github.com/mengistristen/cmd-notes
-[Tsoding Daily]: https://www.youtube.com/tsoding
+[Tsoding]: https://www.youtube.com/tsoding
